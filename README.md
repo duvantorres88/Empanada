@@ -1,4 +1,4 @@
-###Descarga del archivo###
+Descarga del archivo
 
 Haga clic [aquí](1+1.ipynb) para descargar el archivo
 
